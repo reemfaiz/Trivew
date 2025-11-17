@@ -268,7 +268,7 @@ export default function About() {
 
           <motion.div variants={itemVariants}>
             <TeamCard
-              name="Asaeel Lardi"
+              name="Asaeel Lardhi"
               title="Co-Founder & CEO | Software Engineer"
               description="Software Engineer with a strategic mindset and a relentless drive for innovation. As the Co-Founder & CEO of Aseer, Asayel guides the company with clarity, ambition, and a passion for transforming ideas into real-world impact. Her leadership is rooted in empowering teams, building scalable solutions, and creating a future where technology drives positive change across communities."
             />
