@@ -209,8 +209,6 @@ export default function About() {
           viewBox="0 0 19 12"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
-          animate={{ y: [0, 5, 0] }}
-          transition={{ duration: 2, repeat: Infinity }}
           initial={{ opacity: 0 }}
           animate={{ opacity: 1, y: [0, 5, 0] }}
           transition={{ duration: 2, repeat: Infinity, delay: 0.5 }}
